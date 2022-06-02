@@ -1,0 +1,2 @@
+Neste curso, a professora Juliana Mascarenhas ensina os fundamentos dos Protocolos HTTP, HTTPS. No curso, foram abordados também os conceitos de API's.
+Criamos uma API em Java para consolidar os conhecimentos adquiridos
